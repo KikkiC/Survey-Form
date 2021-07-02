@@ -1,0 +1,64 @@
+html {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 14px;
+  background-color: #fcfcf7;
+}
+.title-text {
+  text-align: center;
+  background-color: #f2ecda;
+  padding: 4px;
+  border-radius: 10px;
+}
+#title {
+  margin-bottom: -5px;
+}
+#survey-form {
+  padding: 5px;
+  margin: 5px;
+}
+#name {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+#email {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+#number {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+#dropdown {
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border-radius: 2.5px;
+}
+#recommendation {
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  background-color: white;
+}
+#likethemost {
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border-radius: 2.5px;
+}
+#improvements {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  background-color: white;
+}
+#legend-title {
+  font-size: 12px;
+}
+#comments {
+  margin-top: 5px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+#submit {
+    background: #f2ecda;
+    border-radius: 5px;
+}
